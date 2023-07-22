@@ -1,0 +1,11 @@
+#btn-info{
+    border: 1px;
+    background-color: palevioletred;
+}
+.details{
+    display: none;
+}
+div{
+    display: block;
+    width: 400px;
+}
